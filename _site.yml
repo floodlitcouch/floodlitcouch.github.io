@@ -1,0 +1,37 @@
+name: "Welocom to FloodlitCouch!"                                # CHANGE HERE 
+exclude: ["download", "libs"]
+output_dir: "."
+navbar:
+  title: "TEST"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+      menu:
+        - text: 'Whatever Menu 1'
+          href: whatevermenu1.html
+        - text: 'Whatever Menu 2'
+          href: whatevermenu2.html
+        - text: 'Whatever Menu 3'
+          href: whatevermenu3.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+    - text: "Blog"
+      icon: fa-rss
+      href: https://floodlitcouch.github.io  # CHANGE HERE OR DELETE ALL 3 LINES 
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:floodlitcouch@gmail.com                    # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/floodlitcouch       # CHANGE HERE 
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate

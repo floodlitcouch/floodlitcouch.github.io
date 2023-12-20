@@ -15,3 +15,5 @@ output:
   html_document:
     theme: sandstone
     highlight: textmate
+    includes:
+      after_body: _footer.html

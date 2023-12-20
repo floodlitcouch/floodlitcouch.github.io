@@ -11,4 +11,7 @@ navbar:
       href: about.html
     - text: "Tracks"
       href: tracks.html
-theme: darkly
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate

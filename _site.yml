@@ -1,9 +1,12 @@
 name: "my-website"
 output_dir: docs
 navbar:
-  title: "My Website"
+  title: "Floodlit Couch"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Tracks"
+      href: tracks.html
+href: mailto:<floodlitcouch@gmail.com>

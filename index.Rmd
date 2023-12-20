@@ -1,9 +1,11 @@
 ---
-title: "My Website"
+title: "Floodlit Couch"
 ---
 
-Hello, Website!
+**Welcome to the Floodlit Couch experience**.
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+A blend of foot-tappin' rocky pop and electronica. This is a solo creation built within [LogicPro](https://www.apple.com/uk/logic-pro/), that hopes to attract like-minded souls that don't mind using their ears to hear these sounds.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+<img src="images/Magnetic.JPG" style="width:100%">
+<img src="images/MiniCouch.PNG" width = "450"/> <img src="images/Plecks2.JPG" width="450"/>
+

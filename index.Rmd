@@ -7,4 +7,6 @@ title: "Floodlit Couch"
 A blend of foot-tappin' rocky pop and electronica. This is a solo creation built within [LogicPro](https://www.apple.com/uk/logic-pro/), that hopes to attract like-minded souls that don't mind using their ears to hear these sounds.
 
 <img src="./images/Magnetic.jpg" style="width:100%">
-<img src="./images/MiniCouch.png" width = "450"/> <img src="./images/Plecks2.jpg" width="450"/>
+<p align="center">
+  <img src="./images/MiniCouch.png" width = "450"/> <img src="./images/Plecks2.jpg" width="450"/>
+</p>

@@ -4,15 +4,22 @@ navbar:
   logo:
     image: images/Logo_nobanner.PNG
   title: "Floodlit Couch"
-  left:
+  right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
     - text: "Tracks"
-      href: tracks.html
+      menu:
+        - text: 'Rock'
+          href: tracks.html
+    - text: "Contact"
+      href: contact.html
 output:
   html_document:
     theme: sandstone
     highlight: textmate
-  
+    include:
+      after_body: footer.html ## Input html for a custom footer
+    css: styles.css ## custom CSS
+

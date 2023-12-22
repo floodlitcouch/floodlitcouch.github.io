@@ -6,7 +6,7 @@ output: html_document
 The original idea of Floodlit Couch was instrumental in focus. I mean, who needs a voice for a really cool track (debatable), but these are some oldies that  getting played and definitely need more work.
 
 <p align="center">
-    <img src="./images/manarola.jpg" width = "300"/> <img src="./images/may.jpg" width="300"/> <img src="./images/Concoction.png" width = "300"/>
+    <img src="./images/manarola.JPG" width = "300"/> <img src="./images/may.jpg" width="300"/> <img src="./images/Concoction.png" width = "300"/>
 </p>
 
 <head>

@@ -12,7 +12,13 @@ navbar:
     - text: "Tracks"
       menu:
         - text: 'Rock'
-          href: tracks.html
+          href: rock.html
+        - text: 'Instrumentals'
+          href: instrumentals.html
+        - text: 'Electronica'
+          href: electronica.html
+        - text: 'In progress'
+          href: inprogress.html
     - text: "Contact"
       href: contact.html
 output:

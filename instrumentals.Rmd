@@ -1,0 +1,137 @@
+---
+title: "Instrumentals"
+output: html_document
+---
+
+The original idea of Floodlit Couch was instrumental in focus. I mean, who needs a voice for a really cool track (debatable), but these are some oldies that  getting played and definitely need more work.
+
+<p align="center">
+    <img src="./images/manarola.jpg" width = "300"/> <img src="./images/may.jpg" width="300"/> <img src="./images/Concoction.png" width = "300"/>
+</p>
+
+<head>
+<meta charset="UTF-8">
+<title>Audio Player with a playlist | Able Player Demos</title>
+<link rel="stylesheet" href="demos.css" type="text/css">
+
+<!-- Dependencies -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+
+<!-- Able Player CSS -->
+<link rel="stylesheet" href="./build/ableplayer.min.css" type="text/css"/>
+
+<!-- Able Player JavaScript -->
+<script src="./build/ableplayer.js"></script>
+
+</head>
+
+<body>
+		<!--<header>
+		<div class="title">Able Player Demos</div>
+	</header> 
+	<nav>
+		<ul>
+			<li><a href="index.html">More demos</a></li>
+			<li><a href="https://ableplayer.github.io/ableplayer">Able Player Home</a></li>
+		</ul>
+	</nav> -->
+	<main>
+		<h1>Incandescent</h1>
+
+		<!-- use the following markup for each media element -->
+		<audio id="audio1" width="480" preload="auto" data-able-player data-skin="2020" loop>
+			<!-- source elements are optional when there's a playlist. -->
+			<!-- If ommitted, they will be constructed from the first playlist item -->
+		</audio>
+
+		<!-- use the following markup for each playlist -->
+		<!-- an AblePlayer playlist is any <ul> with class="able-playlist" -->
+		<!-- The value of data-player must match the id of the media element -->
+		<!-- Add data-embedded to embed the playlist into the media player -->
+		<!-- see documentation for additional details about markup -->
+		<ul class="able-playlist" data-player="audio1" data-embedded>
+			<li data-poster="./images/Feel Good-2.png">
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/ovalz.wav"></span>
+				<button>Ovalz</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/mister.wav"></span>
+				<button>Mister</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/liadp.wav"></span>
+				<button lang="fr">Life In a Different Place</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/webbydinner.wav"></span>
+				<button>Webby Diner</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/tenpercentlobes.wav"></span>
+				<button>10% Lobes</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/mars.wav"></span>
+				<button>Mars</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/rockspace.wav"></span>
+				<button>Rock Space</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/effort.wav"></span>
+				<button>Effort</button>
+			</li>
+      <li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/fraction.wav"></span>
+				<button>Fraction</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/hoarse.wav"></span>
+				<button>Hoarse</button>
+			</li>
+      <li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/shinbox.wav"></span>
+				<button>Shinbox</button>
+			</li>
+      <li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/subside.wav"></span>
+				<button>Subside</button>
+			</li>
+      <li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="./media/fairdos.wav"></span>
+				<button>Fairdos</button>
+			</li>
+		</ul>
+	</main>
+</body>
+
+
+

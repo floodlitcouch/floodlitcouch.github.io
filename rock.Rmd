@@ -8,7 +8,7 @@ A few rocking tracks.
 <p align="center">
   <img src="./images/Feel Good-2.png" width="300"/> <img src="./images/Logo_nobanner.png" width = "300"/> <img src="./images/mixdesk3.jpg" width = "300"/>
 </p>
-  
+
 <head>
 <meta charset="UTF-8">
 <title>Audio Player with a playlist | Able Player Demos</title>

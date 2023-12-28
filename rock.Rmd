@@ -54,20 +54,20 @@ A few rocking tracks.
 			<li>
 				<span class="able-source"
 					data-type="audio/wav"
-					data-src="./media/imagination.wav"></span>
-				<button>Imagination</button>
+					data-src="https://docs.google.com/uc?export=download&id=17oO9ugU5Y2a0jkN1ulucj3Kf5bIaRU_S"></span>
+				<button>Blind Eye</button>
 			</li>
 			<li data-poster="./images/Feel Good-2.png">
 				<span class="able-source"
 					data-type="audio/wav"
-					data-src="https://drive.google.com/file/d/16sPJKX9yGBnL4TJTIFxBaphl9UHz0vr-/view?usp=sharing"></span>
+					data-src="https://docs.google.com/uc?export=download&id=16sPJKX9yGBnL4TJTIFxBaphl9UHz0vr-"></span>
 				<button>Never Be Gone</button>
 			</li>
 			<li>
 				<span class="able-source"
 					data-type="audio/wav"
-					data-src="./media/blindeye.wav"></span>
-				<button lang="fr">Blind Eye</button>
+					data-src="https://docs.google.com/uc?export=download&id=1XRHFqo7ajVdLMp_yqZ-Ra4NjozQJ1QKG"></span>
+				<button lang="fr">Imagination</button>
 			</li>
 		</ul>
 

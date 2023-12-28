@@ -60,7 +60,7 @@ A few rocking tracks.
 			<li data-poster="./images/Feel Good-2.png">
 				<span class="able-source"
 					data-type="audio/wav"
-					data-src="https://drive.google.com/drive/folders/1FffI3G8YOUdSy6mIHBc3-biYvYNQ65A2/neverbegone.wav"></span>
+					data-src="https://drive.google.com/file/d/16sPJKX9yGBnL4TJTIFxBaphl9UHz0vr-/view?usp=sharing"></span>
 				<button>Never Be Gone</button>
 			</li>
 			<li>

@@ -54,14 +54,20 @@ Letting it all hang out here but these are some that are well listened to, so co
 			<li>
 				<span class="able-source"
 					data-type="audio/wav"
-					data-src="./media/dream.wav"></span>
+					data-src="https://docs.google.com/uc?export=download&id=1flXVqlo4kC24wm11OtbUdbaLNwXfIx-N"></span>
 				<button>Dream</button>
 			</li>
 			<li>
 				<span class="able-source"
 					data-type="audio/wav"
-					data-src="./media/finally.wav"></span>
+					data-src="https://docs.google.com/uc?export=download&id=1ZruFPDm_4fFkJRlK_cEr5Tzb-VYfEY8F"></span>
 				<button>Finally</button>
+			</li>
+			<li>
+				<span class="able-source"
+					data-type="audio/wav"
+					data-src="https://docs.google.com/uc?export=download&id=1fcc_ib6WFO8M42H4nwaWLaPjNU9Uz9qb"></span>
+				<button>Summer Sun</button>
 			</li>
 		</ul>
 	</main>

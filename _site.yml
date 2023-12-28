@@ -4,7 +4,7 @@ navbar:
   logo:
     image: images/Logo_nobanner.PNG
   title: "Floodlit Couch"
-  right:
+  left:
     - text: "Home"
       href: index.html
     - text: "About"

@@ -6,7 +6,7 @@ output: html_document
 OK onto electronica instrumentals (and other weird things). When the flow takes ya, you just gotta go with it!
 
 <p align="center">
-  <img src="./images/conteschlosscover.jpg" width = "300"/> <img src="./images/Ely.jpg" width="300"/> <img src="./images/keys1.jpg" width = "300"/>
+  <img src="./images/conteschlosscover.jpg" width = "300" height="200"/> <img src="./images/Ely.jpg" width="300" height="200"/> <img src="./images/keys1.jpg" width = "300" height="200"/>
 </p>
   
 <head>

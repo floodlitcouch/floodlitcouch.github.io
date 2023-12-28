@@ -4,4 +4,10 @@ title: "About the band"
 
 Floodlit Couch was originally borne out of instrumental rock and electronica on a quest to find the next funky riff. But we discovered that using a blend of soft vocal harmonies layered over big rock sounds produced a classic but contemporary feel. 
 
-<img src="./images/Feel Good-2.png" style="width:100%">
+<p align="center">
+  <img src="./images/mixdesk2.jpg" width="300" height="200"/> <img src="./images/mixdesk3.jpg" width = "300" height="200"/> <img src="./images/triobeauties.jpg" width = "300" height="200"/>
+</p>
+
+<p align="center">
+  <img src="./images/oldskool.jpg" width="300" height="200"/> <img src="./images/keys1.jpg" width = "300" height="200"/> <img src="./images/beardedwonder.jpg" width = "300" height="200"/>
+</p>

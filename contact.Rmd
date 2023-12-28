@@ -2,8 +2,14 @@
 title: "Get in touch"
 ---
 
-For further information, drop us a line, we'd love to her from you. 
-
-Contact to be added here...
-
+<p align="left">
+Email: floodlitcouch@gmail.com
+</p>
+<p align="left">
+X: @floodlitcouch
+</p>
+<p align="left">
+Instagram: @floodlitcouchmusic
+</p>
 <img src="./images/streets.JPG" style="width:100%">
+
